@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat");
+
+.cidade{
+    font-family: Montserrat;
+    font-size: 30px;
+}
+
+.data{
+    font-family: Montserrat;
+    font-size: 15px;
+}
+
+.container-temp{
+    display: flex;
+    justify-content: center;
+    font-family: Montserrat;
+    font-size: 70px;
+    cursor: pointer;
+}
+
+.clima{
+    font-family: Montserrat;
+    font-size: 26;
+}
+
+.min-max{
+    font-family: Montserrat;
+    font-size: 20;
+}
+
+.titulo {
+    font-family: Montserrat;
+    font-size: 20;
+    font-weight: bold;
+}
